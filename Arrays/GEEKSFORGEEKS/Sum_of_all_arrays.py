@@ -1,6 +1,6 @@
 class Solution:
 	def arraySum(self, arr):
-   		sum=0
+   		total=0
    		for i in range (len(arr)):
-   		    sum+=arr[i]
+   		    total+=arr[i]
    		return sum   
