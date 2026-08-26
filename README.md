@@ -7,6 +7,7 @@ Data Structures and Algorithms practice in Python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sourav-io0/DSA/tree/main/0001-two-sum/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sourav-io0/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sourav-io0/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sourav-io0/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
